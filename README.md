@@ -1,6 +1,6 @@
 # Braden Pocock
 
-Data engineering, architecture, analytics, and application development.
+Data engineering, architecture, analytics, A.I, and application development.
 
 This GitHub contains selected examples of code and technical curriculum
 from my professional work, including historical SQL and Python examples.
