@@ -1,16 +1,13 @@
-## Hi there 👋
+# Braden Pocock
 
-<!--
-**thepocock/thepocock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data engineering, architecture, analytics, and application development.
 
-Here are some ideas to get you started:
+This GitHub contains selected examples of code and technical curriculum
+from my professional work, including historical SQL and Python examples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Work
+
+- **lsc_forecast** — T-SQL cohort-based digital marketing forecasting model
+- **votesmart_api** — Python REST API extraction and normalization pipeline
+- **scrabble** — SQL curriculum and exercises used for analyst training
+- **csv_gen** — Python utility for splitting multi-sheet Excel workbooks
