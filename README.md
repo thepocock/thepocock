@@ -11,3 +11,4 @@ from my professional work, including historical SQL and Python examples.
 - **[votesmart_api](https://github.com/thepocock/votesmart_api)** — Python REST API extraction and normalization pipeline
 - **[scrabble](https://github.com/thepocock/scrabble)** — SQL curriculum and exercises used for analyst training
 - **[csv_gen](https://github.com/thepocock/csv_gen)** — Python utility for splitting multi-sheet Excel workbooks
+- **[modern_stack]()** — Conceptual Cloud Solution Architecture
