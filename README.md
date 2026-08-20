@@ -13,3 +13,5 @@ This GitHub contains selected examples of architecture, code, systems engineerin
 - **[votesmart_api](https://github.com/thepocock/votesmart_api)** — Python REST API extraction and normalization pipeline <kbd>DATA ENGINEERING</kbd>
 - **[scrabble](https://github.com/thepocock/scrabble)** — SQL curriculum and exercises used for analyst and leadership training <kbd>TEACHING SQL</kbd>
 - **[csv_gen](https://github.com/thepocock/csv_gen)** — Python utility for splitting multi-sheet Excel workbooks <kbd>AUTOMATION</kbd>
+
+The SQL work ranges from procedural analytical modeling and historical simulation to execution-plan analysis, cardinality control, and optimizer-aware relational decomposition.
